@@ -2,8 +2,12 @@
 Simple Autohotkey script to mute your microphone. Turns on the Scroll Lock LED on your keyboard when the microphone is muted so you have a visual indicator when the microphone is muted.
 
 Instructions:
+
+  Download and install Autohotkey here https://www.autohotkey.com/
   
   Download and add the Sound volume command line tool from Nirsoft https://www.nirsoft.net/utils/sound_volume_command_line.html to your %PATH%
+
+  Download the micmute.ahk file from the repository
   
   Adjust line #5 to set the hotkey you want to use to mute/unmute the microphone, documentation available at https://www.autohotkey.com/docs/v2/KeyList.htm
   
